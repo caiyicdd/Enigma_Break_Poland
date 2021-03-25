@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615045864 source:d:\lab\cpp_test\algorithm\engima4_lj\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<map>
+	<set>
+	<fstream>
+
