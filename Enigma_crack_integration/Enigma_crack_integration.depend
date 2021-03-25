@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615043528 source:d:\lab\cpp_test\enigma_crack_integration\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<map>
+
